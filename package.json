@@ -1,0 +1,28 @@
+{
+  "name": "p2-currency-converter",
+  "version": "1.0.0",
+  "description": "Currency converter package using npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyankapatel011/npm-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Priyanka Patel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Priyankapatel011/npm-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Priyankapatel011/npm-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "install": "^0.13.0",
+    "npm": "^10.4.0"
+  }
+}
